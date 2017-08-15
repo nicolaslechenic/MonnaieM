@@ -25,6 +25,6 @@ monnaie virtuelle (appelée le « M »).
 Si vous souhaitez participer au développement de Monnaie M, merci de prendre
 contact avec l'auteur. Dépôt Github : https://github.com/Mer0me/MonnaieM
 
-Le fichier config.php est volontairement ignoré dans le d�p�t GitHub, sa
+Le fichier config.php est volontairement ignoré dans le dépôt GitHub, sa
 structure est définie dans le fichier config.example.php à la racine.
 

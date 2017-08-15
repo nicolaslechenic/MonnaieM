@@ -8,38 +8,23 @@
  | distribuer sous les termes de la licence BSD                            |
  |                                                                         |
  +-------------------------------------------------------------------------+
- | Auteur : Jérôme VUITTENEZ - Merome : postmaster@merome.net              |
+ | Auteur : Jï¿½rï¿½me VUITTENEZ - Merome : postmaster@merome.net              |
  +-------------------------------------------------------------------------+
 
-Monnaie M est une expérimentation d'initiative citoyenne visant à faire
-connaître et promouvoir :
-- le fonctionnement et le rôle d'une monnaie,
-- les Systèmes d'Echanges Locaux (SEL),
+Monnaie M est une expï¿½rimentation d'initiative citoyenne visant ï¿½ faire
+connaï¿½tre et promouvoir :
+- le fonctionnement et le rï¿½le d'une monnaie,
+- les Systï¿½mes d'Echanges Locaux (SEL),
 - le concept de revenu de base,
-- les monnaies complémentaires.
+- les monnaies complï¿½mentaires.
 
-Cette expérimentation consiste en la mise en place d'une plateforme web
-d'échange de biens et de services entre des membres inscrits, grâce à une
-monnaie virtuelle (appelée le « M »).
+Cette expï¿½rimentation consiste en la mise en place d'une plateforme web
+d'ï¿½change de biens et de services entre des membres inscrits, grï¿½ce ï¿½ une
+monnaie virtuelle (appelï¿½e le ï¿½ M ï¿½).
 
-Si vous souhaitez participer au développement de Monnaie M, merci de prendre
-contact avec l'auteur. Dépôt Github : https://github.com/Mer0me/MonnaieM
+Si vous souhaitez participer au dï¿½veloppement de Monnaie M, merci de prendre
+contact avec l'auteur. Dï¿½pï¿½t Github : https://github.com/Mer0me/MonnaieM
 
-Le fichier config.php est volontairement manquant dans le dépôt GitHub, sa
-structure doit être la suivante :
-
-// Accès à la base de données
-$host="";
-$user="";
-$pwd="";
-$db="";
-
-// Adresse où les messages d'erreurs Mysql sont envoyés
-$admin="";
-
-// Adresse d'expédition des mails envoyés aux utilisateurs par le logiciel
-$from="";
-
-// URL de base du site (ne pas oublier le "/" final)
-$baseurl="";
+Le fichier config.php est volontairement ignorÃ© dans le dï¿½pï¿½t GitHub, sa
+structure est dÃ©finie dans le fichier config.example.php Ã  la racine.
 

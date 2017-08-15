@@ -8,22 +8,22 @@
  | distribuer sous les termes de la licence BSD                            |
  |                                                                         |
  +-------------------------------------------------------------------------+
- | Auteur : J�r�me VUITTENEZ - Merome : postmaster@merome.net              |
+ | Auteur : Jérôme VUITTENEZ - Merome : postmaster@merome.net              |
  +-------------------------------------------------------------------------+
 
-Monnaie M est une exp�rimentation d'initiative citoyenne visant � faire
-conna�tre et promouvoir :
-- le fonctionnement et le r�le d'une monnaie,
-- les Syst�mes d'Echanges Locaux (SEL),
+Monnaie M est une expérimentation d'initiative citoyenne visant à faire
+connaître et promouvoir :
+- le fonctionnement et le rôle d'une monnaie,
+- les Systèmes d'Echanges Locaux (SEL),
 - le concept de revenu de base,
-- les monnaies compl�mentaires.
+- les monnaies complémentaires.
 
-Cette exp�rimentation consiste en la mise en place d'une plateforme web
-d'�change de biens et de services entre des membres inscrits, gr�ce � une
-monnaie virtuelle (appel�e le � M �).
+Cette expérimentation consiste en la mise en place d'une plateforme web
+d'échange de biens et de services entre des membres inscrits, grâce à une
+monnaie virtuelle (appelée le « M »).
 
-Si vous souhaitez participer au d�veloppement de Monnaie M, merci de prendre
-contact avec l'auteur. D�p�t Github : https://github.com/Mer0me/MonnaieM
+Si vous souhaitez participer au développement de Monnaie M, merci de prendre
+contact avec l'auteur. Dépôt Github : https://github.com/Mer0me/MonnaieM
 
 Le fichier config.php est volontairement ignoré dans le d�p�t GitHub, sa
 structure est définie dans le fichier config.example.php à la racine.

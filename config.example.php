@@ -1,16 +1,16 @@
 <?php
   // Access to the database 
-  $host="";
-  $user="";
-  $pwd="";
-  $db="";
+  const HOST = 'localhost';
+  const USER = 'mysql_user';
+  const PWD = 'mysql_password';
+  const DB = 'mysql_database';
 
   // Mailing address used by MySQL errors messages
-  $admin="";
+  const ADMIN = "example@mail.com";
 
   // From mailing address used by the application
-  $from="";
+  const FROM = "noreply@dev.com";
 
   // Monnaie M base url
-  $baseurl="";
+  const BASEURL = "localhost:8888/";
 ?>
